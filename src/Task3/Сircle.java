@@ -1,8 +1,8 @@
-package Tasc3;
+package Task3;
 
 import java.util.Scanner;
 
-public class Okrujnost {
+public class Сircle {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Введите значение радиуса");
